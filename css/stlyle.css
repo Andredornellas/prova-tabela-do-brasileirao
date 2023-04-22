@@ -1,0 +1,101 @@
+
+table{
+    border: 1px;
+    color: #dddddd;
+    font-family: Arial;
+    border-collapse: collapse;
+    margin: auto;
+
+}
+tbody td{
+    border: 1px #dddddd;
+}
+table th{
+    text-align: center;
+    
+}
+
+.azul-marinho{
+    color: #003366;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+
+
+}
+.azul-celeste{
+    color: #1398be;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+.laranja{
+    color: #de9800;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+.cinza{
+    color: #cccccc;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+.vermelho{
+    color: #c91b04;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+.classificacao{
+    border: 1px solid #dddddd;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    
+}
+
+.time{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bolder;
+    text-align:left;
+    
+}
+.titulo{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bolder;
+    text-align:center;
+
+}
+.pontos{
+    font-size: 14px;
+    color: black;
+    font-weight:bold;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+.vitorias{
+    background-color: #f7f7f7;
+    font-size: 14px;
+    text-align:center ;
+}
+
+.filho{
+    font-size: 10px;
+    color: #8f8f8f;
+    text-align:left;
+    
+
+}.sigla{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+    font-weight:bold;
+}
+.sig{
+    font-size: 10px;
+    color: #555555;
+    text-align:left;
+}
